@@ -1,0 +1,2 @@
+escape :q or :q! or :wq
+
