@@ -1,0 +1,1 @@
+opeing a file with emacs = emacs filename
